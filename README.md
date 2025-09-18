@@ -1,4 +1,4 @@
 # BI
 BI Projects
-“This is my first GitHub repository. I’m learning GitHub step by step!”
+“This is my first GitHub repository for my BI projects.”
 
